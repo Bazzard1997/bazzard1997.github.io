@@ -1,9 +1,32 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
-#header4-0 H1 {
-  font-size: 48px;
-  font-family: 'Roboto', sans-serif;
+#footer1-2 P {
+  color: #000000;
 }
 #header2-3 H1 {
-  text-align: center;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+}
+#header2-3 P {
+  text-align: right;
+}
+#social-buttons2-6 .mbr-header__text {
+  color: #ffffff;
+}
+#footer1-2 P {
+  color: #000000;
+}
+#msg-box1-8 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-8 .mbr-article {
+  color: #fff;
+}
+#header2-7 H1 {
+  text-align: right;
+  color: #553982;
+}
+#header2-7 P {
+  text-align: right;
+  color: #fac51c;
 }
